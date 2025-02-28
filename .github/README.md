@@ -32,8 +32,8 @@ TRMSCII (Terminal-based School Management System) is a simple yet powerful comma
 ## 📂 Installation & Usage
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Jyotibrat/Simple-School-App.git
-   cd Simple-School-App
+   git clone https://github.com/Jyotibrat/TrmSCII.git
+   cd src
    ```
 2. **Compile the Java File:**
    ```sh
