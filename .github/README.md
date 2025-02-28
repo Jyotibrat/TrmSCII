@@ -1,12 +1,13 @@
-<img align="right" src="./Assets/Logo.jpg" alt="Project Logo" width="200">
-
+<img align="center" src="./Assets/Logo.jpg" alt="Project Logo" width="400">
 
 # TRMSCII - Terminal-based School Management System
 
 ## 📌 Overview
+
 TRMSCII (Terminal-based School Management System) is a simple yet powerful command-line application for managing school operations efficiently. It helps users handle student and teacher records, manage timetables, and store data securely using file handling.
 
 ## 🚀 Features
+
 - **Student & Teacher Management** – Add, update, and retrieve student and teacher details.
 - **Timetable Management** – Organize and display class schedules with proper formatting.
 - **Data Persistence** – Uses file handling to store records securely.
@@ -53,7 +54,3 @@ Check out the project on Devfolio: [TRMSCII on Devfolio](https://devfolio.co/pro
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-For any queries or suggestions, reach out to [Jyotibrat](https://github.com/Jyotibrat).
-
