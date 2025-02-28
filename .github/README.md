@@ -1,9 +1,5 @@
-<div align="center">
-    <img src="./Assets/Logo.jpg" alt="Project Logo" width="1000">
-</div>
-
-# TRMSCII - Terminal-based School Management System
-
+![Logo](https://github.com/user-attachments/assets/77d36259-1cdb-4b0f-a88d-5f386b716e47)
+# TrmSCII - Terminal-based School Management System 
 ## 📌 Overview
 
 TRMSCII (Terminal-based School Management System) is a simple yet powerful command-line application for managing school operations efficiently. It helps users handle student and teacher records, manage timetables, and store data securely using file handling.
