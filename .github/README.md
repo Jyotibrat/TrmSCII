@@ -1,4 +1,6 @@
-<img align="center" src="./Assets/Logo.jpg" alt="Project Logo" width="400">
+<div align="center">
+    <img src="./Assets/Logo.jpg" alt="Project Logo" width="1000">
+</div>
 
 # TRMSCII - Terminal-based School Management System
 
