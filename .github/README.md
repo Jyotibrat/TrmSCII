@@ -1,4 +1,7 @@
-![Logo](https://github.com/user-attachments/assets/77d36259-1cdb-4b0f-a88d-5f386b716e47)
+<div align="center">
+    <img src="./Assets/Logo.jpg" alt="Project Logo" width="1000">
+</div>
+
 # TrmSCII - Terminal-based School Management System 
 ## 📌 Overview
 
