@@ -48,7 +48,7 @@ TRMSCII (Terminal-based School Management System) is a simple yet powerful comma
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
 ## 🎯 SWOC 25 Participation
-This project is a part of **SWOC 25**, which is the **Season 5 of SWOC (Social Winter of Code)**.
+This project is a part of **SWOC '25**, which is the **Season 5 of SWOC (Social Winter of Code)**.
 
 ## 🔗 Project on Devfolio
 Check out the project on Devfolio: [TRMSCII on Devfolio](https://devfolio.co/projects/ters-caf0)
